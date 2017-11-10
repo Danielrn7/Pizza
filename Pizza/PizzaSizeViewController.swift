@@ -1,10 +1,11 @@
 //
-//  PizzaSizeViewController.swift
-//  Pizza
+//  SizeViewController.swift
+//  PizzaMaker
 //
-//  Created by Erik Basto Segovia on 19/08/17.
-//  Copyright © 2017 Erik Basto Segovia. All rights reserved.
+//  Created by Daniel Ramirez on 10/11/17.
+//  Copyright © 2017 Daniel Ramirez. All rights reserved.
 //
+
 
 import UIKit
 
